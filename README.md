@@ -9,4 +9,4 @@ Now you can right click inside a directory and
 
 ![XnView in contextMenu](./xnview_context_menu.png)
 
-Source for inspiration: [https://github.com/cbmeeks/sublime-text-2-context-menu-windows]
+[Source for inspiration](https://github.com/cbmeeks/sublime-text-2-context-menu-windows)
